@@ -44,16 +44,34 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more about the project, please see below
 
 ### Demo video
-
 Visit file -> university-list-app/src/media/demo-video.mov
 
-### Code Splitting
+### Feature Implemented 
+1. Search University 
+2. Search by university full name, partial name
+3. Search capability on hit/press enter key button and on click search icon on search input
+4. List university list in the alphabetical sorted order
+5. Pagination 
+6. University details
+7. On click page persist pagination
+8. Lazy loading 
+9. Test files for 7-8 component, due to lack of time i didn't cover for all the components & other.
+10. Loder implementation , show loder on page load and pagination 
+
+
+### Area of Improvement 
+1. Responsive design
+2. Test case for all the remaining components, reducer, action and saga etc..
+
+
+Thank you 😊! 
+ 
+
+
+  
 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
