@@ -1,0 +1,37 @@
+
+.search-box{
+    width: 100%;
+    position: relative;
+    display: flex;
+    height: 40px;
+  }
+.search-input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #1abc9c;
+    border-right: none;
+    outline: none;
+    font-size: 16px;
+    background: none;
+}
+.search-button{
+    height: 40px;
+    width: 40px;
+    outline: none;
+    cursor: pointer;
+    border-left: none;
+    border: 1px solid #1abc9c;
+}
+
+.svg-icon.search-icon {
+    display: inline-block;
+}
+.svg-icon.search-icon:focus .search-path, .svg-icon.search-icon:hover .search-path {
+    stroke: #299ecc;
+}
+.svg-icon.search-icon:active .search-path {
+    stroke: #1abc9c;
+    stroke-width: 2px;
+}
+
+  

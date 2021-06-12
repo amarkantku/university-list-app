@@ -1,0 +1,36 @@
+.pagination {
+    margin-bottom: 20px;
+    font: 14px/24px sans-serif;
+  }
+  
+  .page {
+    display: inline-block;
+    padding: 0px 9px;
+    margin-right: 3px;
+    border-radius: 3px;
+    border: 1px solid #1abc9c;
+    font-size: 14px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .page a {
+    text-decoration: none;
+  }
+  
+  .page:hover {
+    background: #1abc9c;
+    cursor: pointer;
+  }
+  
+  .page.active {
+    border: 1px solid #616161;
+    background: #616161;
+    color: #f0f0f0;
+  }
+
+  .disabled {
+    pointer-events: none;
+    opacity: 0.4;
+  }
+  

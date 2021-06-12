@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table /> component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="table-wrapper"
+  >
+    <table
+      class="table"
+    >
+      <thead
+        class="thead"
+      >
+        <tr>
+          <th>
+            name
+          </th>
+          <th>
+            state
+          </th>
+          <th>
+            country
+          </th>
+          <th>
+            website
+          </th>
+          <th>
+            country code
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="tbody"
+      />
+    </table>
+    <div
+      class="no-record"
+    >
+      <p>
+        No Record Found.
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

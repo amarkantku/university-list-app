@@ -1,0 +1,53 @@
+.table-wrapper {
+  margin: 20px 0;
+}
+table { 
+  width: 100%; 
+  border-collapse: collapse;
+  font-size: 14px;
+}
+  
+th { 
+  background: #1abc9c; 
+  color: white; 
+  font-weight: bold; 
+  cursor: cell;
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+  box-sizing: border-box;
+}
+
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+tr:hover {background-color:#7fd6c5;}
+
+.no-record {
+  margin-top: 2rem;
+  font-weight: bold;
+  color: rgba(161, 155, 155, 0.712);
+}
+.clear {
+  background: #fff;
+  border: none;
+}
+.hot-link {
+  text-decoration: none;
+  color: #000;
+}
+.loading {
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
+}

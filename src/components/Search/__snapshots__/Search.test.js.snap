@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Search /> component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    data-testid="container"
+  >
+    <div
+      class="search-box"
+      data-testid="search-box"
+    >
+      <input
+        class="search-input"
+        data-testid="search-input"
+        placeholder="Search.."
+        type="text"
+        value=""
+      />
+      <button
+        class="search-button"
+        data-testid="search-button"
+      >
+        <svg>
+          search.svg
+        </svg>
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

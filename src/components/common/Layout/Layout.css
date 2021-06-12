@@ -1,0 +1,21 @@
+.row {  
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.main {
+    display: block;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    min-width: 75%;
+    min-height: 80vh;
+}
+
+.heading {
+    margin: auto;
+    height: auto;
+    padding: 10px 0;
+    text-decoration: underline;
+}

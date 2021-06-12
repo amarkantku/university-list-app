@@ -1,0 +1,29 @@
+.info {
+    list-style: none;
+    height: auto;
+    letter-spacing: 1px;
+    line-height: 2.5rem;
+    margin-top: 2.5rem;
+}
+
+.back {
+    margin-top: 15px;
+}
+
+.back-link::before {
+    content: "\2190";
+}
+.mg-15 {
+    margin-left: 15px;
+}
+
+.back-link {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    text-decoration: none;
+    color :#1abc9c;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
