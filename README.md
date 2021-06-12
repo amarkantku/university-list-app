@@ -33,8 +33,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 ## Learn More
 You can learn more about the project, please see below
 
-### Demo video
-Visit file -> university-list-app/src/media/demo-video.mov
+### Demo video & Image files
+**Visit folder**  -> university-list-app/src/media/
 
 ### Feature Implemented 
 1. Search University 
