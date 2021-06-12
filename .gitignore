@@ -24,4 +24,4 @@ yarn-error.log*
 
 #test file
 src/__snapshots__/
-src/components/*/__snapshots__/
+src/components/**/__snapshots__/
