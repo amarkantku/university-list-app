@@ -40,11 +40,11 @@ You can learn more about the project, please see below
 1. Search University 
 2. Search university by university's full name, partial name and country
 3. Search capability on hit/press enter key button and on click search icon in input text field 
-4. List university list in the alphabetical sorted order
+4. List university in the alphabetical sorted order
 5. Pagination 
-6. University details
-7. On click page persist pagination
-8. Lazy loading 
+6. University details page
+7. Persist pagination activity on navigation to university deatils page and coming back to list page.
+8. Lazy loading
 9. Test files for 7-8 component, due to lack of time i didn't cover for all the components & other.
 10. Loder implementation , show loder on page load and pagination 
 
