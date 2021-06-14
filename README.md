@@ -39,7 +39,7 @@ You can learn more about the project, please see below
 ### Feature Implemented 
 1. Search University 
 2. Search university by university's full name, partial name and country
-3. 3. Search capability on hit/press enter key button and on click search icon on search input
+3. Search capability on hit/press enter key button and on click search icon on search input
 4. List university list in the alphabetical sorted order
 5. Pagination 
 6. University details
